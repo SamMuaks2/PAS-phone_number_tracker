@@ -1,0 +1,197 @@
+{
+    "United States": [
+      "AT&T",
+      "Verizon Wireless",
+      "T-Mobile US",
+      "Sprint",
+      "US Cellular",
+      "Boost Mobile",
+      "Cricket Wireless"
+    ],
+
+    "Canada": [
+      "Rogers Wireless",
+      "Bell Mobility",
+      "Telus Mobility",
+      "Freedom Mobile",
+      "Fido"
+    ],
+
+    "United Kingdom": [
+      "Vodafone UK",
+      "EE",
+      "O2",
+      "Three UK",
+      "BT Mobile"
+    ],
+
+    "Australia": [
+      "Telstra",
+      "Optus",
+      "Vodafone Australia",
+      "Amaysim"
+    ],
+
+    "Germany": [
+      "Telekom Deutschland",
+      "Vodafone Germany",
+      "O2 Germany",
+      "1&1"
+    ],
+
+    "France": [
+      "Orange France",
+      "SFR",
+      "Bouygues Telecom",
+      "Free Mobile"
+    ],
+
+    "Spain": [
+      "Movistar",
+      "Vodafone Spain",
+      "Orange Spain",
+      "MásMóvil"
+    ],
+
+    "Italy": [
+      "TIM",
+      "Vodafone Italy",
+      "Wind Tre",
+      "Iliad Italy"
+    ],
+
+    "India": [
+      "Airtel",
+      "Vodafone Idea",
+      "Jio",
+      "BSNL",
+      "MTNL"
+    ],
+
+    "China": [
+      "China Mobile",
+      "China Unicom",
+      "China Telecom"
+    ],
+
+    "Japan": [
+      "NTT Docomo",
+      "SoftBank",
+      "au"
+    ],
+
+    "South Korea": [
+      "SK Telecom",
+      "KT Corporation",
+      "LG Uplus"
+    ],
+
+    "Brazil": [
+      "Vivo",
+      "Claro Brazil",
+      "TIM Brazil",
+      "Oi"
+    ],
+
+    "Mexico": [
+      "Telcel",
+      "Movistar Mexico",
+      "AT&T Mexico"
+    ],
+
+    "South Africa": [
+      "Vodacom South Africa",
+      "MTN South Africa",
+      "Cell C",
+      "Telkom Mobile"
+    ],
+
+    "Nigeria": [
+      "MTN Nigeria",
+      "Airtel Nigeria",
+      "Glo Mobile",
+      "9mobile"
+    ],
+
+    "Egypt": [
+      "Vodafone Egypt",
+      "Orange Egypt",
+      "Etisalat Misr",
+      "WE"
+    ],
+
+    "Russia": [
+      "MTS",
+      "Beeline",
+      "MegaFon",
+      "Tele2 Russia"
+    ],
+
+    "Middle East": [
+      "STC",
+      "Etisalat",
+      "Zain",
+      "Ooredoo"
+    ],
+
+    "Southeast Asia": [
+      "Singtel",
+      "StarHub",
+      "TrueMove",
+      "AIS",
+      "Globe Telecom",
+      "Smart Communications",
+      "Digi",
+      "Maxis",
+      "Telkomsel",
+      "XL Axiata"
+    ],
+
+    "Turkey": [
+      "Turkcell",
+      "Vodafone Turkey",
+      "Türk Telekom"
+    ],
+
+    "Latin America": [
+      "Claro",
+      "Movistar",
+      "Personal",
+      "Tigo",
+      "Oi"
+    ],
+
+    "Africa": [
+      "MTN Group",
+      "Airtel Africa",
+      "Safaricom",
+      "Orange",
+      "Vodacom",
+      "Glo Mobile",
+      "Tigo"
+    ],
+
+    "Caribbean": [
+      "Digicel",
+      "Flow",
+      "Cable & Wireless",
+      "Lime"
+    ],
+
+    "Central Asia": [
+      "Beeline",
+      "MTS",
+      "Tele2",
+      "Kcell"
+    ],
+    
+    "Regional and International Providers": [
+      "Orange",
+      "Vodafone",
+      "T-Mobile",
+      "China Mobile",
+      "MTN Group",
+      "Ooredoo"
+    ]
+  }
+  
