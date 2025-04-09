@@ -8,10 +8,7 @@
         "open-source",
         "hacktoberfest"
     ],
-    "author": "Pabitra Banerjee",
-    "contributors": [
-        "Pabitra Banerjee"
-    ],
+    "author": "Mohri",
     "license": "MIT",
     "lib": ".",
     "main": "src/index.js",
